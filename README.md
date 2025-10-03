@@ -1,7 +1,10 @@
 # DMI_ro-ca_ll
 浮幻点名系统 v1.2.13
+
 https://img.shields.io/badge/Python-3.13.7-blue.svg
+
 https://img.shields.io/badge/License-MIT-green.svg
+
 https://img.shields.io/badge/Status-Stable-brightgreen.svg
 
 项目简介
