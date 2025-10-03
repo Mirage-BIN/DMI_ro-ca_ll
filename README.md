@@ -1,7 +1,10 @@
 # DMI_ro-ca_ll
 浮幻点名系统 v1.2.13
 
-https://img.shields.io/badge/Python-3.13.7-blue.svg https://img.shields.io/badge/License-MIT-green.svg https://img.shields.io/badge/Status-Stable-brightgreen.svg
+https://img.shields.io/badge/Python-3.13.7-blue.svg
+![替代文本](https://img.shields.io/badge/<LABEL>-<MESSAGE>-<COLOR>.svg)
+https://img.shields.io/badge/License-MIT-green.svg
+https://img.shields.io/badge/Status-Stable-brightgreen.svg
 
 项目简介
 浮幻点名系统是一款专为课堂教学设计的随机点名程序，由一名高一学生独立开发。程序界面简洁、操作便捷，旨在帮助教师实现真正公平、随机的课堂点名。
@@ -81,16 +84,16 @@ text
 
 一杯29块的瑞幸茉莉花香拿铁 ☕ - 让我开心一整天！
 
-9.9元 - 也是no problem！
+9.9元 - 也是no problem！万一我有优惠券呢~
 
-1元钱 💰 - 万一我有优惠券呢，一块钱买两包辣条也不错啦~
+1元钱 💰 - 一块钱买两包辣条也不错啦~
 
 赞助方式
 程序内置赞助页面，支持：
+![483064142-f2f2ad4a-7e85-4e4d-9801-274c9d24c354](https://github.com/user-attachments/assets/66be3b96-a357-4a35-a16b-8cc1ebe4a547)
 
-微信支付
+![483064169-493aa610-0725-46e2-a37b-e2eca7c8542c](https://github.com/user-attachments/assets/187fcf50-dc1f-4421-95b1-f7b606e281be)
 
-支付宝
 
 B站关注支持
 
@@ -119,13 +122,13 @@ LotteryNamePicker类: 主程序类，管理所有界面和逻辑
 
 常见问题
 Q: 程序无法启动怎么办？
-A: 请确保系统已安装Python 3.13.7或更高版本，并安装所需依赖库。
+A: 请确保系统已安装Python 3.13.7或更高版本。
 
 Q: 如何更新学生名单？
 A: 直接编辑程序目录下的 names.txt 文件，每行一个姓名。
 
 Q: 悬浮按钮找不到了怎么办？
-A: 程序重启后按钮会重置到屏幕右上角位置。
+A: 程序重启后按钮会重置到屏幕左上角位置，你可自由拖动。
 
 Q: 可以修改程序界面颜色吗？
 A: 目前不支持自定义颜色，后续版本可能会添加此功能。
@@ -138,12 +141,9 @@ v1.2.13
 
 改进用户界面
 
-许可证
-本项目采用 MIT 许可证 - 详见 LICENSE 文件
-
 联系方式
 开发者: MirageBN
 
-B站个人主页: 点击关注
+B站个人主页: [点击关注](https://space.bilibili.com/3546558473702169)
 
-团队B站: 点击关注
+团队B站: [点击关注](https://space.bilibili.com/3546938154683232)
