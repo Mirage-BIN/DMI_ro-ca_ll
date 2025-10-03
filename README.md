@@ -1,11 +1,7 @@
 # DMI_ro-ca_ll
 浮幻点名系统 v1.2.13
 
-https://img.shields.io/badge/Python-3.13.7-blue.svg
-
-https://img.shields.io/badge/License-MIT-green.svg
-
-https://img.shields.io/badge/Status-Stable-brightgreen.svg
+https://img.shields.io/badge/Python-3.13.7-blue.svg https://img.shields.io/badge/License-MIT-green.svg https://img.shields.io/badge/Status-Stable-brightgreen.svg
 
 项目简介
 浮幻点名系统是一款专为课堂教学设计的随机点名程序，由一名高一学生独立开发。程序界面简洁、操作便捷，旨在帮助教师实现真正公平、随机的课堂点名。
